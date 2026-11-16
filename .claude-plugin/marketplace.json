@@ -1,0 +1,13 @@
+{
+  "name": "hr-skills-dev",
+  "owner": {
+    "name": "HR Tech Solucoes"
+  },
+  "plugins": [
+    {
+      "name": "hr-skills-dev",
+      "source": "./plugins/hr-skills-dev",
+      "description": "Padroes de desenvolvimento Visual FoxPro, SQL e conversao VFP9 da equipe."
+    }
+  ]
+}

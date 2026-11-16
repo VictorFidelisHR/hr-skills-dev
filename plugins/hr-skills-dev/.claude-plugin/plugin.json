@@ -1,0 +1,8 @@
+{
+  "name": "hr-skills-dev",
+  "version": "0.1.5",
+  "description": "Padroes de desenvolvimento Visual FoxPro, SQL e conversao VFP9 da equipe.",
+  "author": {
+    "name": "HR Tech Solucoes"
+  }
+}

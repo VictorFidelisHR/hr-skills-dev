@@ -1,0 +1,20 @@
+{
+  "name": "hr-skills-dev",
+  "interface": {
+    "displayName": "hr-skills-dev"
+  },
+  "plugins": [
+    {
+      "name": "hr-skills-dev",
+      "source": {
+        "path": "./plugins/hr-skills-dev",
+        "source": "local"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

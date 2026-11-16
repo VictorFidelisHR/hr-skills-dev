@@ -1,0 +1,27 @@
+{
+  "capturedAt": "2026-11-13",
+  "source": "Skills pessoais ativas na sessao de criacao",
+  "algorithm": "SHA256",
+  "files": [
+    {
+      "path": "plugins/hr-skills-dev/skills/desenvolvimento-vfp/SKILL.md",
+      "sha256": "beb54edd3b5e5168673c4aa313d668979f50883f8a15e3bf2ca9b5b9c094c705"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/padrao-sql/SKILL.md",
+      "sha256": "7e1ed0e8484396d4bcfb2b1e46192621773b8a587236956da0a6691a9b6a980e"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/padrao-sql/agents/openai.yaml",
+      "sha256": "8e680ae268a326c27ed2d7c4d6af61dbdffae985a5f270239dd7adbe763dcd97"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/padrao-sql/references/exemplos.md",
+      "sha256": "d65366aaf66cbfd82355e7f3d07ec5fd15c6b08a2a3b64b852aeeb7b471a1e51"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/vfp9-hrfoxbin2prg/SKILL.md",
+      "sha256": "cfc7b7eb53334f39fadcb7b2810ef6bc10ab8fc058eea1751f3e9136b93c4fa9"
+    }
+  ]
+}

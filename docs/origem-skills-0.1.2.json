@@ -1,0 +1,32 @@
+{
+  "capturedAt": "2026-11-13",
+  "source": "Skills_Desenvolvimento.zip",
+  "archiveSha256": "e9b9791ff96f98baabbce0d08d4e9510ac5fbe4683722efadd34faed0e0bc9e8",
+  "algorithm": "SHA256",
+  "files": [
+    {
+      "path": "plugins/hr-skills-dev/skills/sqlserver-stored-procedure-padrao/agents/openai.yaml",
+      "sha256": "13705ccf9d970176709a9be2d79cf8bf059022774e880b6311f4bf2e87d3b533"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/sqlserver-stored-procedure-padrao/references/padroes-procedures.md",
+      "sha256": "a5e072085467c751bb3fe1d2b2c6427e6a0020916e52023f9428910e3b60368c"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/sqlserver-stored-procedure-padrao/SKILL.md",
+      "sha256": "c4ce2bdce1dccae1d14a59d6e33a80fbcf6d1e34adb1b8087525cf38c2fbe55d"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/vfp9-hrfoxbin2prg/SKILL.md",
+      "sha256": "cfc7b7eb53334f39fadcb7b2810ef6bc10ab8fc058eea1751f3e9136b93c4fa9"
+    },
+    {
+      "path": "plugins/hr-skills-dev/skills/desenvolvimento-vfp/SKILL.md",
+      "sha256": "2081d4a755c121facc7d399437aea221550994b42f1ffbc696924d3a71c6f8d6"
+    }
+  ],
+  "adjustments": [
+    "desenvolvimento-vfp: referencia foxbin2prg alinhada para vfp9-hrfoxbin2prg.",
+    "desenvolvimento-vfp: referencia padrao-sql alinhada para sqlserver-stored-procedure-padrao."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hr-skills-dev",
+  "version": "0.1.5",
+  "description": "Padroes de desenvolvimento Visual FoxPro, SQL e conversao VFP9 da equipe.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "shortDescription": "Padroes VFP, SQL e conversao VFP9",
+        "displayName": "hr-skills-dev",
+        "category": "Productivity"
+      }
+    }
+  }
+}

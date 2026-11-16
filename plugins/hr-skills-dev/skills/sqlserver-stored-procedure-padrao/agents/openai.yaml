@@ -1,0 +1,4 @@
+interface:
+  display_name: "SQL Proc Padrao"
+  short_description: "Padrao SQL Server para procedures"
+  default_prompt: "Use $sqlserver-stored-procedure-padrao para criar ou revisar procedures SQL Server no padrao deste projeto."
